@@ -14,7 +14,6 @@ is not sufficient to determine methods' performance. Hence, this project will al
 and perhaps situational evaluation of methods.
 
 <img src="https://user-images.githubusercontent.com/49972425/172246167-5ae7bd69-dad0-4118-a6c3-58e743d7a1b4.png" height="300"> <img src="https://user-images.githubusercontent.com/49972425/172245899-fcf81adc-799f-4ee0-89bc-1959a0fbf79b.png" height="300"> 
-
 <img src="https://user-images.githubusercontent.com/49972425/172246370-936c0f39-1fc6-414e-8c80-d43b383a1918.png" height="300"> <img src="https://user-images.githubusercontent.com/49972425/172247083-986013e8-06f5-4690-9716-6a27083068c0.png" height="300"> 
 
 ### Project Details:
